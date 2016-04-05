@@ -1,0 +1,22 @@
+ul li{list-style-type:none;
+	display:inline-block;
+   border:10px solid;
+   float:left;
+   background:#aaa;
+}
+li:first-child{
+border-radius:7px 0 0 7px;
+
+}
+li:last-child{border-radius:0 7px 7px 0;
+
+}
+a{color:white;
+text-decoration:none;
+display:block;
+text-align:center;
+width:100px;
+height:25px;
+padding-top:5px;}
+a:hover{background:green;
+color:yellow;}

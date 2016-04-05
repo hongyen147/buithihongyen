@@ -1,0 +1,50 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#hl ul li{
+	list-style:none;
+	float:left;
+    padding: 14px 43px;
+}
+
+#hl ul li:first-child{
+	    padding-left: 149px;
+}
+
+#hl ul li a:hover{
+	color: red;
+}
+
+#hl li a{
+	font-size: 20px;
+	text-decoration: none;
+	color: #000;
+}
+p{
+	clear:both;
+
+}
+
+#center{
+width:940px;
+margin: 0px auto;
+}
+#a{
+	margin-left: 329px;
+}
+
+#hl{
+	width: 100%;
+	border-bottom: 5px solid #000;
+	min-height: 60px;
+}
+
+#ve{
+	text-align: center;
+	padding: 20px;
+}
+
+#ve>img:first-child{
+	margin-left: 75px;
+}

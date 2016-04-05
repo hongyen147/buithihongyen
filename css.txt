@@ -1,0 +1,19 @@
+body{
+	width:940px;
+	margin:10px 0;
+	padding:20px;
+}
+li{
+	list-style:none;
+	float:left;
+	margin-left:50px;
+}
+p{
+	clear:both;
+}
+#a{
+	margin-left:400px;
+}
+#b{
+	text-align:center;
+}
